@@ -1,4 +1,4 @@
-package arrays.simple;
+package java8;
 
 import java.util.Arrays;
 
