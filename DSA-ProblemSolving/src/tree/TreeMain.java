@@ -12,12 +12,18 @@ public class TreeMain {
 		root.left = new Node(11);
 		root.right = new Node(12);
 		root.left.left = new Node(14);
+		root.left.right = new Node(19);
+		root.left.right.left = new Node(16);
+		root.left.right.left.right = new Node(17);
+		System.out.println("Tree Size : " + getTreeSize(root));
+		System.out.println("Height of a Tree : " + height(root));
+		System.out.println("Max : " + getMax(root));
 //		inorder(root);
 //		preorder(root);
 //		postorder(root);
 //		height(root);
 //		printKDis(root, 1);
-		printLevelOrderTraversal(root);
+//		printLevelOrderTraversal(root);
 	}
 
 	public static void inorder(Node root) { // O(n) // auxiliary O(h)
@@ -89,6 +95,10 @@ public class TreeMain {
 			return 1 + getTreeSize(root.left) + getTreeSize(root.right);
 	}
 
+	// Biggest Element in the Tree
+	// find max element btw left and right
+	// then compare the biggest element with the key
+	// element
 	public static int getMax(Node root) {
 		if (root == null)
 			return Integer.MIN_VALUE;
