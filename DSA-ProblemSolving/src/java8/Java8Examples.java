@@ -22,8 +22,9 @@ public class Java8Examples {
 		List<String> names = Arrays.asList("Samarpit", "Aayush", "Harsh", "Likhith");
 		// Collections.sort(names, (String a,String b)->{})
 		names.sort((String a, String b) -> b.compareTo(a));
+		System.out.println("-----------Names----------");
 		for (String name : names)
-			System.out.println("" + name);
+			System.out.println(name);
 
 		// Functional Interface
 		Converter<String, Integer> converter = (from) -> Integer.valueOf(from);

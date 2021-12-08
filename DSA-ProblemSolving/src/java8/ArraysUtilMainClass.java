@@ -10,7 +10,7 @@ public class ArraysUtilMainClass {
 		int c[];
 		System.out.println(Arrays.equals(a, b));
 		System.out.println(Arrays.toString(a));
-		System.out.println(Arrays.asList(a));
+		System.out.println("array as list: " + Arrays.asList(a));
 		System.out.println(Arrays.binarySearch(a, 13));
 		Arrays.fill(a, 7);
 		System.out.println(Arrays.toString(a));
@@ -19,22 +19,23 @@ public class ArraysUtilMainClass {
 
 		// Multi-Dimension
 		int[][] arr = new int[3][4];
+		System.out.println("MultiD");
 		for (int[] row : arr) {
 			Arrays.fill(row, -1);
 			System.out.println(Arrays.toString(row));
 		}
-		
+
 		// Binary Search
 		System.out.println(Arrays.binarySearch(b, 15));
 		System.out.println(Arrays.binarySearch(b, 16)); // return index if match
 
-		// if not present return (insertion point + 1)negative with position where can be
+		// if not present return (insertion point + 1)negative with position where can
+		// be
 		// element place
 		// using which can get the closest values of the search element
-	
-		// Binary Search for non-primitive	
-	
+
+		// Binary Search for non-primitive
+
 	}
-	
 
 }

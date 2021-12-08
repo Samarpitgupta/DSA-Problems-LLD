@@ -1,19 +1,28 @@
 package linkedlist;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
 class Main {
 	public static void main(String args[]) {
-		Node head = new Node(5);
-		Node node2 = new Node(10);
-		Node node3 = new Node(20);
-		head.next = node2;
-		node2.next = node3;
+//		Node head = new Node(5);
+//		Node node2 = new Node(10);
+//		Node node3 = new Node(20);
+//		main(null);
+//		head.next = node2;
+//		node2.next = node3;
 //		head.next=new Node(20);
 //		head.next.next=new Node(30);
 //		head.next.next.next=new Node(40);
 //		traverseLL(head);
 //		recTraveseLL(head);
-		System.out.println("Position : " + searchLL(head, 1));
-		System.out.println("Position : " + recSearchLL(head, 10));
+//		System.out.println("Position : " + searchLL(head, 1));
+//		System.out.println("Position : " + recSearchLL(head, 10));
+//		Arrays.asList("a","b");
+//		ArrayList<String> a=new ArrayList<String>() {"",""};
+//		Collections.sort(Arrays.toString("")));
+		System.out.println("apple".compareTo("banana"));
 	}
 
 	public static void traverseLL(Node head) { // O(n)
@@ -115,4 +124,6 @@ class Main {
 		node.next = temp.next;
 		System.gc();
 	}
+	
+//	public static
 }
