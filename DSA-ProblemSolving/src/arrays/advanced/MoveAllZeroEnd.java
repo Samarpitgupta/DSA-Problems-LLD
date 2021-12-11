@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MoveAllZeroEnd {
 	public static void main(String args[]) {
-		int a[] = { 0, 10, 0, 12, 0, 13, 14, 15, 17, 0 };
+		int a[] = { 0, 10, 0, 12, 0, 13, 0, 14, 15, 17, 0 };
 		System.out.println(Arrays.toString(moveAllZeroEnd(a)));
 		moveAllZeroToEnd(a);
 	}
