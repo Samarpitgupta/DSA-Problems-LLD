@@ -20,8 +20,6 @@ public class RotateArray {
 		System.out.println(Arrays.toString(nums));
 		reverse(nums, 0, nums.length - 1);
 		System.out.println(Arrays.toString(nums));
-
-
 	}
 
 	public static void reverse(int[] a, int i, int j) {
