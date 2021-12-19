@@ -120,8 +120,28 @@ public class TreeMain {
 		}
 	}
 
-	public static void iterativePreorderTraversal(Node root) {
+	public Node invertTree(Node root) {
 
+		if (root == null)
+			return null;
+
+		invertTree(root.left);
+		invertTree(root.right);
+
+		Node temp = root.left;
+		root.left = root.right;
+		root.right = temp;
+
+		return root;
+	}
+
+	public boolean hasPathSum(TreeNode root, int targetSum) {
+		if (root == null)
+			return false;
+		else if (root.left == null && root.right == null && targetSum - root.val == 0) {
+			return true;
+		} else
+			return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val);
 	}
 
 }
