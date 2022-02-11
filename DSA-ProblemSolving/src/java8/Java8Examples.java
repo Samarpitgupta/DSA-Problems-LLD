@@ -26,6 +26,8 @@ public class Java8Examples {
 		for (String name : names)
 			System.out.println(name);
 
+		names.forEach(name -> System.out.println("\n Names: " + name));
+
 		// Functional Interface
 		Converter<String, Integer> converter = (from) -> Integer.valueOf(from);
 		Integer converted = converter.convert("123");
@@ -89,7 +91,7 @@ public class Java8Examples {
 		Predicate<Integer> pred = Java8Examples::checkAge;
 		boolean result = pred.test(24);
 		System.out.println(result);
-		
+
 		//
 
 	}

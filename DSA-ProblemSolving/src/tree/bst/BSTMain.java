@@ -1,4 +1,6 @@
-package tree;
+package tree.bst;
+
+import tree.bst.TreeNode;
 
 public class BSTMain {
 
