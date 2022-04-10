@@ -7,8 +7,9 @@ import java.util.stream.Collectors;
 
 public class FunctionalProgrammingMain {
 	public static void main(String[] args) {
-		List<Person> people = List.of(new Person("John", Gender.MALE), new Person("Maria", Gender.FEMALE),
-				new Person("Aisha", Gender.FEMALE), new Person("Alex", Gender.MALE), new Person("Alice", Gender.FEMALE));
+		List<Person> people =null; 
+//				List.of(new Person("John", Gender.MALE), new Person("Maria", Gender.FEMALE),
+//				new Person("Aisha", Gender.FEMALE), new Person("Alex", Gender.MALE), new Person("Alice", Gender.FEMALE));
 
 		System.out.println("// Imperative approach");
 		// Imperative approach
