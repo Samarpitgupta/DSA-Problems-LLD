@@ -15,8 +15,8 @@ public class BaseballGame {
 				if (op.equals("+")) {
 					int top = stack.pop();
 					int top2 = top + stack.peek();
-					stack.push(top);
-					stack.push(top2);
+					stack.push(top); //
+					stack.push(top2); //
 				} else if (op.equals("C")) {
 					stack.pop();
 				} else if (op.equals("D")) {
