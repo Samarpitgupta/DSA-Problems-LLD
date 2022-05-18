@@ -1,5 +1,10 @@
 package array.multid;
 
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
 public class MultiDArray {
 
 	public static void main(String[] args) {
@@ -21,6 +26,11 @@ public class MultiDArray {
 		}
 
 		print(arr);
+		
+		Map<String, String> map=new HashMap<>(); 
+		
+		Set<Integer> set =new HashSet<>(); 
+		
 	}
 
 	public static void print(int arr[][]) {

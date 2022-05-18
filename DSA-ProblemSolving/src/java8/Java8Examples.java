@@ -92,7 +92,17 @@ public class Java8Examples {
 		boolean result = pred.test(24);
 		System.out.println(result);
 
-		//
+		// Reduce Function - reduces a collection(List, Set, etc) or an Array to a
+		// single value
+
+		List<Integer> nos = Arrays.asList(1, 2, 3, 4);
+		int reduceResult = nos.stream().reduce(2, (a, b) -> a * b); // first arg is a initial value
+
+		System.out.println("\nReduced Results: " + reduceResult);
+
+		List<String> list = Arrays.asList("Samapit", " Gupta");
+		String myName = list.stream().reduce("", (a, b) -> a + b);
+		System.out.println("\nMy Name is : " + myName);
 
 	}
 

@@ -12,7 +12,6 @@ import java.util.Set;
 public class Java8StreamPrac {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<Employee> empList = Arrays.asList(new Employee("Samarpit", "samar", 200000),
 				new Employee("darshan", "darshan", 300000));
 
