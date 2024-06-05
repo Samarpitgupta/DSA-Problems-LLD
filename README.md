@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # String
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Counting
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # String Matching
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Bucket Sort
 |  |
 | ------- |
@@ -75,3 +80,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+# Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
