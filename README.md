@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # String
 |  |
@@ -67,6 +68,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,3 +88,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
