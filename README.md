@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Math
@@ -92,3 +93,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
