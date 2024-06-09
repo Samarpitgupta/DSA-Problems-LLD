@@ -25,6 +25,7 @@
 # Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
@@ -92,6 +93,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
 # Prefix Sum
 |  |
