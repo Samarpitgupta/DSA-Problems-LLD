@@ -4,6 +4,7 @@
 # Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0061-rotate-list) |
 # Two Pointers
 |  |
@@ -45,6 +46,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +76,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
@@ -99,3 +102,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0023-merge-k-sorted-lists) |
