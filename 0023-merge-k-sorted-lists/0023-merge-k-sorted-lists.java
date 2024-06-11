@@ -9,6 +9,9 @@
  * }
  */
 class Solution {
+
+    // We'll maintain a min-heap of size k to keep track of the current minimum element among the heads of the k lists. At each step, we'll extract the minimum node from the heap and append it to the result linked list. Then, we'll move the pointer of the extracted node to its next node in its respective list and add it back to the heap if it exists.
+
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a, b) -> a.val - b.val);
         
@@ -21,7 +24,7 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode current = dummy;
         
-        //  while the min-heap is not empty
+        // Loop while the min-heap is not empty
         while (!minHeap.isEmpty()) {
             // Extract the minimum node from the heap
             ListNode minNode = minHeap.poll();
