@@ -34,6 +34,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Math
 |  |
@@ -44,6 +45,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -58,12 +60,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 # Binary Search
 |  |
 | ------- |
@@ -82,6 +86,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Bucket Sort
 |  |
@@ -117,3 +122,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0295-find-median-from-data-stream) |
+# Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
