@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # String Matching
