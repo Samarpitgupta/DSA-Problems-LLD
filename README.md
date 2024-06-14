@@ -32,6 +32,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
 # Hash Table
 |  |
 | ------- |
@@ -128,3 +130,11 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
