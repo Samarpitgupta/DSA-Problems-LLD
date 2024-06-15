@@ -46,6 +46,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
@@ -80,6 +81,7 @@
 # String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0392-is-subsequence) |
@@ -104,6 +106,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Dynamic Programming
 |  |
