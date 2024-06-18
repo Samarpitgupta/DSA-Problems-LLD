@@ -13,36 +13,10 @@
  *     }
  * }
  */
-
- import java.util.*;
 class Solution {
-    public boolean hasPathSum(TreeNode root, int sum) {
-        if (root == null) {
-            return false;
-        }
-
-        Stack<TreeNode> stack = new Stack<>();
-        Stack<Integer> remainingSums = new Stack<>();
-
-        stack.push(root);
-        remainingSums.push(sum);
-        
-        while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
-            int remainingSum = remainingSums.pop();
-            if (node.left == null && node.right == null && remainingSum == node.val) {
-            // Path found!
-            return true;
-            }
-            if (node.right != null) {
-            stack.push(node.right);
-            remainingSums.push(remainingSum - node.val);
-            }
-            if (node.left != null) {
-            stack.push(node.left);
-            remainingSums.push(remainingSum - node.val);
-            }
-        }
-        return false;
+    public boolean hasPathSum(TreeNode root, int targetSum) {
+      if(root==null) return false;
+      if(root.left==null && root.right==null) return root.val==targetSum;
+      return hasPathSum(root.left,targetSum-root.val) || hasPathSum(root.right,targetSum-root.val);  
     }
 }
