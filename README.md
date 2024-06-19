@@ -6,6 +6,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0092-reverse-linked-list-ii) |
 # Two Pointers
 |  |
 | ------- |
