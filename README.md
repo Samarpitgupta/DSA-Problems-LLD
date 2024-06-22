@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -63,6 +64,7 @@
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0295-find-median-from-data-stream) |
