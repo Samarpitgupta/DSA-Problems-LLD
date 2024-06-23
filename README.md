@@ -39,6 +39,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0658-find-k-closest-elements) |
 # Math
@@ -46,12 +47,14 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
 # Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0621-task-scheduler) |
 # Divide and Conquer
 |  |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
 # Data Stream
 |  |
 | ------- |
@@ -171,3 +175,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0637-average-of-levels-in-binary-tree) |
+# Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
