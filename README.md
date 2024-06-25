@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
@@ -182,3 +184,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0380-insert-delete-getrandom-o1) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
