@@ -33,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,3 +189,11 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0078-subsets) |
