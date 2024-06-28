@@ -197,3 +197,10 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0078-subsets) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
