@@ -217,4 +217,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
