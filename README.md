@@ -209,11 +209,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
