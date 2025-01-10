@@ -228,6 +228,7 @@
 | [0057-insert-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
