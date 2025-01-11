@@ -254,9 +254,11 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
+| [0441-arranging-coins](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
