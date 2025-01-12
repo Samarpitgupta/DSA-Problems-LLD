@@ -210,6 +210,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
+| [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -230,6 +231,7 @@
 | [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
 | [0436-find-right-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0436-find-right-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
 ## Math
 |  |
 | ------- |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0436-find-right-interval) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
