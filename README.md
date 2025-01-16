@@ -206,6 +206,7 @@
 | [0176-second-highest-salary](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0177-nth-highest-salary) |
 | [1161-project-employees-i](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1161-project-employees-i) |
+| [1338-queries-quality-and-percentage](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1338-queries-quality-and-percentage) |
 ## Hash Table
 |  |
 | ------- |
