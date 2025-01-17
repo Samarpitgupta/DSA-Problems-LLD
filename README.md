@@ -220,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
+| [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -279,4 +280,12 @@
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
