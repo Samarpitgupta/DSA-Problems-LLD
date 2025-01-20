@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0441-arranging-coins](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
