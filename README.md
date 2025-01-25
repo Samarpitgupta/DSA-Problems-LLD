@@ -232,6 +232,7 @@
 | [0015-3sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0057-insert-interval) |
+| [0090-subsets-ii](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
 | [0436-find-right-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0436-find-right-interval) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
