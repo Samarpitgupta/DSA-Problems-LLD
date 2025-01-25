@@ -285,6 +285,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -294,4 +295,16 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
