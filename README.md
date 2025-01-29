@@ -212,6 +212,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0049-group-anagrams) |
 | [1249-snapshot-array](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/1249-snapshot-array) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## String
@@ -220,6 +221,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
@@ -231,6 +233,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -279,6 +282,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0049-group-anagrams) |
 | [0436-find-right-interval](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0436-find-right-interval) |
 ## Design
 |  |
