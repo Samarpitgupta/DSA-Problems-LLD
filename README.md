@@ -223,6 +223,7 @@
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0394-decode-string) |
+| [0647-palindromic-substrings](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0647-palindromic-substrings) |
 | [2487-optimal-partition-of-string](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -246,6 +247,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0322-coin-change) |
+| [0647-palindromic-substrings](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/Samarpitgupta/DSA-Problems-LLD/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
